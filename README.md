@@ -3,7 +3,7 @@
 This project uses **Power BI** to analyze and visualize detailed information about various renewable energy systems.  
 The dataset includes data on installed capacity, energy production, consumption, storage, investment, and environmental impact.
 
-🔗 **Link to the dataset:** [[Kaggle](https://www.kaggle.com/datasets/girumwondemagegn/dataset-for-renewable-energy-systems)](#)
+🔗 **Link to the dataset:** [[Kaggle](https://www.kaggle.com/datasets/girumwondemagegn/dataset-for-renewable-energy-systems)]
 
 ---
 
