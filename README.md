@@ -41,7 +41,7 @@ It includes several Key Performance Indicators (KPIs) and insights such as:
 
 
 
-![Dashboard Screenshot]([images/dashboard.png](https://github.com/AKT-dot/-Renewable-Energy-Data-Analysis---Using-PowerBI/blob/main/Dashboard.png))
+![Dashboard Screenshot]((https://github.com/AKT-dot/-Renewable-Energy-Data-Analysis---Using-PowerBI/blob/main/Dashboard.png))
 
 
 
