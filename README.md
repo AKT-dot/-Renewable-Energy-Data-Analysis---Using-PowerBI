@@ -39,7 +39,5 @@ It includes several Key Performance Indicators (KPIs) and insights such as:
 - Excel / CSV data cleaning  
 - GitHub for version control
 
----
 
-## 📁 Repository Structure
 
